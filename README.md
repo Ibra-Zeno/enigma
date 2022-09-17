@@ -13,9 +13,13 @@ Complete wiht room for improvement.
 
 Running the program will display the transformation of each letter when encrypted, and show you its reverse. Inputting the message 
 >Github 
+
 and choosing to encrypt will return the ecrypted message
+
 >Egrfs*
+
 If the reverse was used and the decrypt option was chosen, the message returned would be 
+
 >Github
 
 ## Room for improvement
